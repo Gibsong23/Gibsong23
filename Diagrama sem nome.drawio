@@ -1,9 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T00:20:15.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.7" etag="n7qVxjwTe9a6egX0kwRO" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T01:09:56.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="e_yEsi52KeAvn2fAQBgc" version="23.1.7" type="github">
   <diagram name="Página-1" id="jI4Mom-bvlGWx-AOMdB-">
-    <mxGraphModel>
+    <mxGraphModel dx="1433" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zrYSe3lO73KV0bCTM9f4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zrYSe3lO73KV0bCTM9f4-1" target="zrYSe3lO73KV0bCTM9f4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zrYSe3lO73KV0bCTM9f4-1" value="- Providência manteiga, ovos, 2 kg de massa etc." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="354" y="50" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zrYSe3lO73KV0bCTM9f4-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zrYSe3lO73KV0bCTM9f4-2" target="zrYSe3lO73KV0bCTM9f4-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="290" />
+              <mxPoint x="413" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zrYSe3lO73KV0bCTM9f4-2" value="- Misture os ingredientes" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="364" y="170" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zrYSe3lO73KV0bCTM9f4-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zrYSe3lO73KV0bCTM9f4-3" target="zrYSe3lO73KV0bCTM9f4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zrYSe3lO73KV0bCTM9f4-3" value="Despeje a mistura na forma de bolo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="126" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zrYSe3lO73KV0bCTM9f4-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zrYSe3lO73KV0bCTM9f4-4" target="zrYSe3lO73KV0bCTM9f4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zrYSe3lO73KV0bCTM9f4-4" value="Retire a forma do forno" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="540" y="450" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zrYSe3lO73KV0bCTM9f4-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zrYSe3lO73KV0bCTM9f4-7" target="zrYSe3lO73KV0bCTM9f4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zrYSe3lO73KV0bCTM9f4-7" value="Leve a forma ao forno&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="310" width="126" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zrYSe3lO73KV0bCTM9f4-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zrYSe3lO73KV0bCTM9f4-8" target="zrYSe3lO73KV0bCTM9f4-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zrYSe3lO73KV0bCTM9f4-8" value="Deixe esfriar" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry x="546" y="584.5" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zrYSe3lO73KV0bCTM9f4-16" value="- Sirva" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="594.5" width="120" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
